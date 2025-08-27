@@ -1,0 +1,8 @@
+# Object files and binaries
+*.o
+bin/
+build/
+
+# Editor folders
+.vscode/
+.DS_Store
